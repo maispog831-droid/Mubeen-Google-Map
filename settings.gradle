@@ -1,0 +1,2 @@
+rootProject.name = "Mubeen Maps"
+include ':app'
